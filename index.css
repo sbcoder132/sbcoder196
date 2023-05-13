@@ -1,0 +1,201 @@
+body
+{
+	
+	
+}
+h1
+{
+	color: ;
+	font-family:sans-serif;
+	text-align: center;
+	font-size: 60px;
+}
+.img1
+{
+	width: 400px;
+	height: 300px;
+	position: absolute;
+	top:10%;
+	left:36%;
+	border-radius: 1000px;
+
+
+}
+.btn1 
+{
+  width:200px;
+  height: 40px;
+  position: absolute;
+  top: 55%;
+  left:2%;
+  background:black;
+  font-family: cursive;
+  font-size: 20px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+.btn2
+{
+  width:200px;
+  height: 40px;
+  position: absolute;
+  top: 55%;
+  left:18%;
+  background:black;
+  font-family: cursive;
+  font-size: 20px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+.btn3
+{
+  width:200px;
+  height: 40px;
+  position: absolute;
+  top: 55%;
+  left:34%;
+  background:black;
+  font-family: cursive;
+  font-size: 20px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+.btn4 
+{
+  width:200px;
+  height: 40px;
+  position: absolute;
+  top: 55%;
+  left:50%;
+  background:black;
+  font-family: cursive;
+  font-size: 20px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+.btn5
+{
+  width:200px;
+  height: 40px;
+  position: absolute;
+  top: 55%;
+  left:66%;
+  background:black;
+  font-family: cursive;
+  font-size: 20px;
+  color: whitesmoke;
+  font-weight: bold;
+}
+.btn6 
+{
+  width:200px;
+  height: 40px;
+  position: absolute;
+  top: 55%;
+  left:82%;
+  background:black;
+  font-family: cursive;
+  font-size: 20px;
+  color: whitesmoke;
+  font-weight: bold;
+  
+}
+.btn1:hover
+{
+   width:204px;
+  height: 50px;
+  background:gray;
+  color:black;
+  transition:1s;
+}
+
+.btn2:hover
+{
+   width:204px;
+  height: 50px;
+  background:lightblue;
+  color:black;
+  transition:1s;
+}
+
+.btn3:hover
+{
+   width:204px;
+  height: 50px;
+  background:limegreen;
+  color:black;
+  transition:1s;
+}
+
+.btn4:hover
+{
+   width:204px;
+  height: 50px;
+  background:rosybrown;
+  color:black;
+  transition:1s;
+}
+
+.btn5:hover
+{
+   width:204px;
+  height: 50px;
+  background:maroon;
+  color:black;
+  transition:1s;
+}
+
+.btn6:hover
+{
+   width:204px;
+  height: 50px;
+  background:lightgreen;
+  color:black;
+  transition:1s;
+}
+
+.imgss
+{
+	width: 1270px;
+	height: 710px;
+	position: absolute;
+	top: 70%;
+	left:3%;
+	
+}
+
+.i1
+{
+   position: absolute;
+   top: 200%;
+   width: 300px;
+   height: 200px;
+   left: 6%;
+}
+
+.i2
+{
+   position: absolute;
+   top: 200%;
+   width: 300px;
+   height: 200px;
+   left: 29%;
+}
+
+.i3
+{
+   position: absolute;
+   top: 200%;
+   width: 300px;
+   height: 200px;
+   left: 52%;
+}
+
+.i4
+{
+   position: absolute;
+   top: 200%;
+   width: 300px;
+   height: 200px;
+   left: 75%;
+}
